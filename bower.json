@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap_test",
+  "description": "First Bootstrap Project",
+  "main": "html/index.html",
+  "authors": [
+    "Huy Nguyen"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/thehuy1608/BootstrapTest",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
